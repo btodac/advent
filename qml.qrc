@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../images/baseimage.jpg</file>
+        <file>../images/koala1.jpg</file>
+        <file>Door.qml</file>
+        <file>../images/alpaca.jpg</file>
+        <file>../images/anteater.jpg</file>
+        <file>../images/chick.jpg</file>
+        <file>../images/chipmunk.jpg</file>
+        <file>../images/deer.jpg</file>
+        <file>../images/elephant.jpg</file>
+        <file>../images/fox.jpg</file>
+        <file>../images/hedgehog.jpg</file>
+        <file>../images/jiraffe.jpg</file>
+        <file>../images/kitten.jpg</file>
+        <file>../images/llama.jpg</file>
+        <file>../images/meerkat.jpg</file>
+        <file>../images/otter.jpg</file>
+        <file>../images/panda.jpg</file>
+        <file>../images/penguins.jpg</file>
+        <file>../images/piglet.jpg</file>
+        <file>../images/polarbear.jpg</file>
+        <file>../images/puppies.jpg</file>
+        <file>../images/rabbits.jpg</file>
+        <file>../images/rhino.jpg</file>
+        <file>../images/seal.jpg</file>
+        <file>../images/squirrel.jpg</file>
+        <file>../images/two-cute-lambs.jpg</file>
+        <file>../images/wombat.jpg</file>
+    </qresource>
+</RCC>
